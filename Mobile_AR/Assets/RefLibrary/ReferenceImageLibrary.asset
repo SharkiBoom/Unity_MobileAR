@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5747620009072622928
+  m_GuidHigh: 5779227210354824373
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4915142897030817931
+      m_GuidHigh: 17241324277390350269
+    m_SerializedTextureGuid:
+      m_GuidLow: 1068699749596284574
+      m_GuidHigh: 2105027728950372072
+    m_Size: {x: 0.13427344, y: 0.204}
+    m_SpecifySize: 1
+    m_Name: tag_BloodSweatPixels
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5643578604219162208
+      m_GuidHigh: 8647244033838358195
+    m_SerializedTextureGuid:
+      m_GuidLow: 5378517629417741723
+      m_GuidHigh: 8353149325070485640
+    m_Size: {x: 0.13671692, y: 0.205}
+    m_SpecifySize: 1
+    m_Name: tag_PulpKitchen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5139866428561399629
+      m_GuidHigh: 16564772235978188683
+    m_SerializedTextureGuid:
+      m_GuidLow: 1433377595303711328
+      m_GuidHigh: 13396911115682349658
+    m_Size: {x: 0.085, y: 0.055531587}
+    m_SpecifySize: 1
+    m_Name: tag_Hopeline
+    m_Texture: {fileID: 0}
